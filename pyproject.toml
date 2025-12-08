@@ -3,14 +3,14 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "my_project"
+name = "iag_aob2b_streamlit"
 version = "0.1.0"
 description = "Description de mon projet Python"
 authors = [{ name="Ton Nom", email="ton@email.com" }]
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-    "pytest>=8.4.0"
+    "streamlit>=1.40.1",
 ]
 
 [tool.setuptools]

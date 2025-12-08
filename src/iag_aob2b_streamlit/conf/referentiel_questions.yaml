@@ -1,0 +1,13 @@
+DAB:
+  - Y'a t'il des monuments historiques ?
+  - Y'a t'il des zones piétonnes ?
+  - Y'a t'il des zones à faible émission (ZFE) ?
+  - Y'a t'il des parkings à proximité ?
+  - Y'a t'il des pistes cyclables ?
+VAM:
+  - Combien de véhicules sont disponibles ?
+  - Quels types de véhicules sont disponibles ?
+RC:
+  - Quel est le taux de sinistralité ?
+  - Quel est le montant moyen des sinistres ?
+  - Y'a t'il des sinistres récents ?

@@ -1,5 +1,4 @@
 import os
-from enum import Enum
 
 class Environnement:
     _configuration = None
@@ -18,9 +17,3 @@ class Environnement:
             return cls._configuration[name]
         except KeyError:
             raise KeyError(f"Configuration '{name}' not found.")
-
-
-class ExempleEnum(Enum):
-
-    VALUE1 = "value1"
-    VALUE2 = "value2"
