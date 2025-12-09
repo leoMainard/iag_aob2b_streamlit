@@ -1,0 +1,1271 @@
+{
+  "appels_offres": [
+    {
+      "id": 1,
+      "nom": "Ville de Niort",
+      "date_ajout": "2025-12-09 22:16:21",
+      "etat": "En cours",
+      "documents": [
+        {
+          "nom": "2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+          "type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "taille": 19194,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "VAM",
+              "lignes": 8,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "Autre",
+              "lignes": 3,
+              "colonnes": 3,
+              "contenu": "Données du tableau 3 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_4_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "SIN",
+              "lignes": 7,
+              "colonnes": 5,
+              "contenu": "Données du tableau 4 - Catégorie: SIN"
+            }
+          ]
+        },
+        {
+          "nom": "2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+          "type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "taille": 8899,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+              "categorie": "SIN",
+              "lignes": 3,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_2_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+              "categorie": "SIN",
+              "lignes": 7,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_3_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+              "categorie": "SIN",
+              "lignes": 5,
+              "colonnes": 6,
+              "contenu": "Données du tableau 3 - Catégorie: SIN"
+            }
+          ]
+        },
+        {
+          "nom": "3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments_table0.xlsx",
+          "type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "taille": 6774,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments_table0.xlsx",
+              "categorie": "SIN",
+              "lignes": 3,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_2_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments_table0.xlsx",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 6,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments_table0.xlsx",
+              "categorie": "VAM",
+              "lignes": 6,
+              "colonnes": 4,
+              "contenu": "Données du tableau 3 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments.pdf",
+          "type": "pdf",
+          "taille": 254863,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments.pdf",
+              "categorie": "DAB",
+              "lignes": 6,
+              "colonnes": 6,
+              "contenu": "Données du tableau 1 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_2_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments.pdf",
+              "categorie": "VAM",
+              "lignes": 5,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+          "type": "pdf",
+          "taille": 235524,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+              "categorie": "Autre",
+              "lignes": 8,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_2_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+              "categorie": "DAB",
+              "lignes": 4,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_3_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+              "categorie": "VAM",
+              "lignes": 6,
+              "colonnes": 5,
+              "contenu": "Données du tableau 3 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "BERGHEIM Annexe - INVENTAIRE 2023_table0 (7).xlsx",
+          "type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "taille": 14698,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_BERGHEIM Annexe - INVENTAIRE 2023_table0 (7).xlsx",
+              "categorie": "SIN",
+              "lignes": 7,
+              "colonnes": 3,
+              "contenu": "Données du tableau 1 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_2_BERGHEIM Annexe - INVENTAIRE 2023_table0 (7).xlsx",
+              "categorie": "DAB",
+              "lignes": 3,
+              "colonnes": 5,
+              "contenu": "Données du tableau 2 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_3_BERGHEIM Annexe - INVENTAIRE 2023_table0 (7).xlsx",
+              "categorie": "Autre",
+              "lignes": 6,
+              "colonnes": 4,
+              "contenu": "Données du tableau 3 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_4_BERGHEIM Annexe - INVENTAIRE 2023_table0 (7).xlsx",
+              "categorie": "VAM",
+              "lignes": 7,
+              "colonnes": 3,
+              "contenu": "Données du tableau 4 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "Notice d'utilisation MCR2 24 30 35 MI.pdf",
+          "type": "pdf",
+          "taille": 1224992,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_Notice d'utilisation MCR2 24 30 35 MI.pdf",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_2_Notice d'utilisation MCR2 24 30 35 MI.pdf",
+              "categorie": "VAM",
+              "lignes": 5,
+              "colonnes": 6,
+              "contenu": "Données du tableau 2 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_3_Notice d'utilisation MCR2 24 30 35 MI.pdf",
+              "categorie": "DAB",
+              "lignes": 7,
+              "colonnes": 5,
+              "contenu": "Données du tableau 3 - Catégorie: DAB"
+            }
+          ]
+        },
+        {
+          "nom": "NOT-128066-08.pdf",
+          "type": "pdf",
+          "taille": 929432,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_NOT-128066-08.pdf",
+              "categorie": "DAB",
+              "lignes": 8,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_2_NOT-128066-08.pdf",
+              "categorie": "Autre",
+              "lignes": 5,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_NOT-128066-08.pdf",
+              "categorie": "Autre",
+              "lignes": 3,
+              "colonnes": 4,
+              "contenu": "Données du tableau 3 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_4_NOT-128066-08.pdf",
+              "categorie": "DAB",
+              "lignes": 4,
+              "colonnes": 6,
+              "contenu": "Données du tableau 4 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_5_NOT-128066-08.pdf",
+              "categorie": "SIN",
+              "lignes": 4,
+              "colonnes": 3,
+              "contenu": "Données du tableau 5 - Catégorie: SIN"
+            }
+          ]
+        }
+      ],
+      "nombre_documents": 8,
+      "questions": [
+        {
+          "question": "Quelle est la durée du contrat proposé ?",
+          "reponse": "36 mois avec possibilité de renouvellement"
+        },
+        {
+          "question": "Quel est le budget estimé pour ce projet ?",
+          "reponse": "Entre 500K€ et 1M€"
+        },
+        {
+          "question": "Quels sont les délais de réalisation ?",
+          "reponse": "6 mois après notification"
+        },
+        {
+          "question": "Quelles sont les modalités de paiement ?",
+          "reponse": "Paiement mensuel sur présentation de facture"
+        },
+        {
+          "question": "Quelles sont les pénalités de retard ?",
+          "reponse": "0,1% du montant par jour de retard"
+        },
+        {
+          "question": "Quelle est la date limite de soumission ?",
+          "reponse": "30 jours à compter de la publication"
+        },
+        {
+          "question": "Quels sont les critères de sélection ?",
+          "reponse": "Prix (40%), qualité technique (40%), délais (20%)"
+        },
+        {
+          "question": "Y a-t-il des conditions de sous-traitance ?",
+          "reponse": "Sous-traitance autorisée jusqu'à 30%"
+        },
+        {
+          "question": "Quelles sont les garanties demandées ?",
+          "reponse": "Garantie bancaire de 5% du montant"
+        },
+        {
+          "question": "Quel est le mode de consultation ?",
+          "reponse": "Appel d'offres ouvert"
+        },
+        {
+          "question": "Y a-t-il une visite de site obligatoire ?",
+          "reponse": "Oui, visite prévue le 15 du mois"
+        },
+        {
+          "question": "Quelles sont les assurances requises ?",
+          "reponse": "RC Pro et décennale obligatoires"
+        },
+        {
+          "question": "Quel est le délai de validité des offres ?",
+          "reponse": "120 jours à compter de la date limite"
+        },
+        {
+          "question": "Y a-t-il des variantes autorisées ?",
+          "reponse": "Oui, variantes techniques acceptées"
+        },
+        {
+          "question": "Quelles sont les modalités de livraison ?",
+          "reponse": "Livraison échelonnée selon planning"
+        },
+        {
+          "question": "Y a-t-il une période de garantie ?",
+          "reponse": "Garantie de 24 mois minimum"
+        },
+        {
+          "question": "Quels sont les documents obligatoires ?",
+          "reponse": "DC1, DC2, KBIS, attestations fiscales"
+        },
+        {
+          "question": "Y a-t-il des critères environnementaux ?",
+          "reponse": "Certification ISO 14001 souhaitée"
+        },
+        {
+          "question": "Quelle est la forme juridique requise ?",
+          "reponse": "Toute forme juridique acceptée"
+        },
+        {
+          "question": "Y a-t-il une clause de réexamen ?",
+          "reponse": "Révision annuelle des prix possible"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Commune de Chibre sur Skibidi",
+      "date_ajout": "2025-12-09 22:18:54",
+      "etat": "En cours",
+      "documents": [
+        {
+          "nom": "03072025_TICKETS_C5515E1237156O121393.pdf",
+          "type": "pdf",
+          "taille": 1256194,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_03072025_TICKETS_C5515E1237156O121393.pdf",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_03072025_TICKETS_C5515E1237156O121393.pdf",
+              "categorie": "VAM",
+              "lignes": 5,
+              "colonnes": 3,
+              "contenu": "Données du tableau 2 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_3_03072025_TICKETS_C5515E1237156O121393.pdf",
+              "categorie": "SIN",
+              "lignes": 4,
+              "colonnes": 6,
+              "contenu": "Données du tableau 3 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_4_03072025_TICKETS_C5515E1237156O121393.pdf",
+              "categorie": "Autre",
+              "lignes": 7,
+              "colonnes": 6,
+              "contenu": "Données du tableau 4 - Catégorie: Autre"
+            }
+          ]
+        },
+        {
+          "nom": "03072025_TICKETS_C7007E1259094O4405.pdf",
+          "type": "pdf",
+          "taille": 876100,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_03072025_TICKETS_C7007E1259094O4405.pdf",
+              "categorie": "SIN",
+              "lignes": 5,
+              "colonnes": 6,
+              "contenu": "Données du tableau 1 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_2_03072025_TICKETS_C7007E1259094O4405.pdf",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 5,
+              "contenu": "Données du tableau 2 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_3_03072025_TICKETS_C7007E1259094O4405.pdf",
+              "categorie": "SIN",
+              "lignes": 5,
+              "colonnes": 4,
+              "contenu": "Données du tableau 3 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_4_03072025_TICKETS_C7007E1259094O4405.pdf",
+              "categorie": "Autre",
+              "lignes": 6,
+              "colonnes": 6,
+              "contenu": "Données du tableau 4 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_5_03072025_TICKETS_C7007E1259094O4405.pdf",
+              "categorie": "SIN",
+              "lignes": 8,
+              "colonnes": 3,
+              "contenu": "Données du tableau 5 - Catégorie: SIN"
+            }
+          ]
+        },
+        {
+          "nom": "01072025_TICKETS_C5515E1237156O121393.pdf",
+          "type": "pdf",
+          "taille": 1256194,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_01072025_TICKETS_C5515E1237156O121393.pdf",
+              "categorie": "VAM",
+              "lignes": 5,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_01072025_TICKETS_C5515E1237156O121393.pdf",
+              "categorie": "SIN",
+              "lignes": 5,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_3_01072025_TICKETS_C5515E1237156O121393.pdf",
+              "categorie": "VAM",
+              "lignes": 7,
+              "colonnes": 5,
+              "contenu": "Données du tableau 3 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_4_01072025_TICKETS_C5515E1237156O121393.pdf",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 5,
+              "contenu": "Données du tableau 4 - Catégorie: Autre"
+            }
+          ]
+        },
+        {
+          "nom": "Macif_Attestation Responsabilité Civile Locative.pdf",
+          "type": "pdf",
+          "taille": 114083,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_Macif_Attestation Responsabilité Civile Locative.pdf",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 3,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_Macif_Attestation Responsabilité Civile Locative.pdf",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_3_Macif_Attestation Responsabilité Civile Locative.pdf",
+              "categorie": "SIN",
+              "lignes": 5,
+              "colonnes": 3,
+              "contenu": "Données du tableau 3 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_4_Macif_Attestation Responsabilité Civile Locative.pdf",
+              "categorie": "Autre",
+              "lignes": 5,
+              "colonnes": 3,
+              "contenu": "Données du tableau 4 - Catégorie: Autre"
+            }
+          ]
+        },
+        {
+          "nom": "stopwords-fr.txt",
+          "type": "plain",
+          "taille": 4566,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_stopwords-fr.txt",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_stopwords-fr.txt",
+              "categorie": "Autre",
+              "lignes": 3,
+              "colonnes": 5,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_stopwords-fr.txt",
+              "categorie": "VAM",
+              "lignes": 3,
+              "colonnes": 3,
+              "contenu": "Données du tableau 3 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "BON_2568643.pdf",
+          "type": "pdf",
+          "taille": 748183,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_BON_2568643.pdf",
+              "categorie": "DAB",
+              "lignes": 8,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_2_BON_2568643.pdf",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 6,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            }
+          ]
+        },
+        {
+          "nom": "BON_2568644.pdf",
+          "type": "pdf",
+          "taille": 747864,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_BON_2568644.pdf",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_2_BON_2568644.pdf",
+              "categorie": "VAM",
+              "lignes": 8,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_3_BON_2568644.pdf",
+              "categorie": "VAM",
+              "lignes": 6,
+              "colonnes": 6,
+              "contenu": "Données du tableau 3 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "nse-4403221013486888781-1000000107.pdf",
+          "type": "pdf",
+          "taille": 43187140,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_nse-4403221013486888781-1000000107.pdf",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 6,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_nse-4403221013486888781-1000000107.pdf",
+              "categorie": "Autre",
+              "lignes": 5,
+              "colonnes": 6,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_nse-4403221013486888781-1000000107.pdf",
+              "categorie": "Autre",
+              "lignes": 3,
+              "colonnes": 4,
+              "contenu": "Données du tableau 3 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_4_nse-4403221013486888781-1000000107.pdf",
+              "categorie": "VAM",
+              "lignes": 3,
+              "colonnes": 6,
+              "contenu": "Données du tableau 4 - Catégorie: VAM"
+            }
+          ]
+        }
+      ],
+      "nombre_documents": 8,
+      "questions": [
+        {
+          "question": "Quelle est la durée du contrat proposé ?",
+          "reponse": "36 mois avec possibilité de renouvellement"
+        },
+        {
+          "question": "Quel est le budget estimé pour ce projet ?",
+          "reponse": "Entre 500K€ et 1M€"
+        },
+        {
+          "question": "Quels sont les délais de réalisation ?",
+          "reponse": "6 mois après notification"
+        },
+        {
+          "question": "Quelles sont les modalités de paiement ?",
+          "reponse": "Paiement mensuel sur présentation de facture"
+        },
+        {
+          "question": "Quelles sont les pénalités de retard ?",
+          "reponse": "0,1% du montant par jour de retard"
+        },
+        {
+          "question": "Quelle est la date limite de soumission ?",
+          "reponse": "30 jours à compter de la publication"
+        },
+        {
+          "question": "Quels sont les critères de sélection ?",
+          "reponse": "Prix (40%), qualité technique (40%), délais (20%)"
+        },
+        {
+          "question": "Y a-t-il des conditions de sous-traitance ?",
+          "reponse": "Sous-traitance autorisée jusqu'à 30%"
+        },
+        {
+          "question": "Quelles sont les garanties demandées ?",
+          "reponse": "Garantie bancaire de 5% du montant"
+        },
+        {
+          "question": "Quel est le mode de consultation ?",
+          "reponse": "Appel d'offres ouvert"
+        },
+        {
+          "question": "Y a-t-il une visite de site obligatoire ?",
+          "reponse": "Oui, visite prévue le 15 du mois"
+        },
+        {
+          "question": "Quelles sont les assurances requises ?",
+          "reponse": "RC Pro et décennale obligatoires"
+        },
+        {
+          "question": "Quel est le délai de validité des offres ?",
+          "reponse": "120 jours à compter de la date limite"
+        },
+        {
+          "question": "Y a-t-il des variantes autorisées ?",
+          "reponse": "Oui, variantes techniques acceptées"
+        },
+        {
+          "question": "Quelles sont les modalités de livraison ?",
+          "reponse": "Livraison échelonnée selon planning"
+        },
+        {
+          "question": "Y a-t-il une période de garantie ?",
+          "reponse": "Garantie de 24 mois minimum"
+        },
+        {
+          "question": "Quels sont les documents obligatoires ?",
+          "reponse": "DC1, DC2, KBIS, attestations fiscales"
+        },
+        {
+          "question": "Y a-t-il des critères environnementaux ?",
+          "reponse": "Certification ISO 14001 souhaitée"
+        },
+        {
+          "question": "Quelle est la forme juridique requise ?",
+          "reponse": "Toute forme juridique acceptée"
+        },
+        {
+          "question": "Y a-t-il une clause de réexamen ?",
+          "reponse": "Révision annuelle des prix possible"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Marseille Bébé",
+      "date_ajout": "2025-12-09 22:25:14",
+      "etat": "Traité",
+      "documents": [
+        {
+          "nom": "2025.xlsx",
+          "type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "taille": 21182,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_2025.xlsx",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 3,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_2025.xlsx",
+              "categorie": "VAM",
+              "lignes": 6,
+              "colonnes": 3,
+              "contenu": "Données du tableau 2 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_3_2025.xlsx",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 5,
+              "contenu": "Données du tableau 3 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_4_2025.xlsx",
+              "categorie": "Autre",
+              "lignes": 5,
+              "colonnes": 6,
+              "contenu": "Données du tableau 4 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_5_2025.xlsx",
+              "categorie": "DAB",
+              "lignes": 8,
+              "colonnes": 4,
+              "contenu": "Données du tableau 5 - Catégorie: DAB"
+            }
+          ]
+        }
+      ],
+      "nombre_documents": 1,
+      "questions": [
+        {
+          "question": "Quelle est la durée du contrat proposé ?",
+          "reponse": "36 mois avec possibilité de renouvellement"
+        },
+        {
+          "question": "Quel est le budget estimé pour ce projet ?",
+          "reponse": "Entre 500K€ et 1M€"
+        },
+        {
+          "question": "Quels sont les délais de réalisation ?",
+          "reponse": "6 mois après notification"
+        },
+        {
+          "question": "Quelles sont les modalités de paiement ?",
+          "reponse": "Paiement mensuel sur présentation de facture"
+        },
+        {
+          "question": "Quelles sont les pénalités de retard ?",
+          "reponse": "0,1% du montant par jour de retard"
+        },
+        {
+          "question": "Quelle est la date limite de soumission ?",
+          "reponse": "30 jours à compter de la publication"
+        },
+        {
+          "question": "Quels sont les critères de sélection ?",
+          "reponse": "Prix (40%), qualité technique (40%), délais (20%)"
+        },
+        {
+          "question": "Y a-t-il des conditions de sous-traitance ?",
+          "reponse": "Sous-traitance autorisée jusqu'à 30%"
+        },
+        {
+          "question": "Quelles sont les garanties demandées ?",
+          "reponse": "Garantie bancaire de 5% du montant"
+        },
+        {
+          "question": "Quel est le mode de consultation ?",
+          "reponse": "Appel d'offres ouvert"
+        },
+        {
+          "question": "Y a-t-il une visite de site obligatoire ?",
+          "reponse": "Oui, visite prévue le 15 du mois"
+        },
+        {
+          "question": "Quelles sont les assurances requises ?",
+          "reponse": "RC Pro et décennale obligatoires"
+        },
+        {
+          "question": "Quel est le délai de validité des offres ?",
+          "reponse": "120 jours à compter de la date limite"
+        },
+        {
+          "question": "Y a-t-il des variantes autorisées ?",
+          "reponse": "Oui, variantes techniques acceptées"
+        },
+        {
+          "question": "Quelles sont les modalités de livraison ?",
+          "reponse": "Livraison échelonnée selon planning"
+        },
+        {
+          "question": "Y a-t-il une période de garantie ?",
+          "reponse": "Garantie de 24 mois minimum"
+        },
+        {
+          "question": "Quels sont les documents obligatoires ?",
+          "reponse": "DC1, DC2, KBIS, attestations fiscales"
+        },
+        {
+          "question": "Y a-t-il des critères environnementaux ?",
+          "reponse": "Certification ISO 14001 souhaitée"
+        },
+        {
+          "question": "Quelle est la forme juridique requise ?",
+          "reponse": "Toute forme juridique acceptée"
+        },
+        {
+          "question": "Y a-t-il une clause de réexamen ?",
+          "reponse": "Révision annuelle des prix possible"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Ville de Niort",
+      "date_ajout": "2025-12-09 22:36:08",
+      "etat": "En cours",
+      "documents": [
+        {
+          "nom": "2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+          "type": "xlsx",
+          "taille": 19194,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "SIN",
+              "lignes": 6,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_2_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "VAM",
+              "lignes": 7,
+              "colonnes": 5,
+              "contenu": "Données du tableau 2 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_3_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "Autre",
+              "lignes": 8,
+              "colonnes": 5,
+              "contenu": "Données du tableau 3 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_4_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "VAM",
+              "lignes": 6,
+              "colonnes": 5,
+              "contenu": "Données du tableau 4 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_5_2549_dde72838-6180-4d3f-ae4a-a668eb01e65f__20230928__Liste_batiments_table0.xlsx",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 3,
+              "contenu": "Données du tableau 5 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+          "type": "xlsx",
+          "taille": 8899,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+              "categorie": "VAM",
+              "lignes": 7,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+              "categorie": "DAB",
+              "lignes": 7,
+              "colonnes": 5,
+              "contenu": "Données du tableau 2 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_3_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+              "categorie": "DAB",
+              "lignes": 8,
+              "colonnes": 4,
+              "contenu": "Données du tableau 3 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_4_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments_table1.xlsx",
+              "categorie": "VAM",
+              "lignes": 3,
+              "colonnes": 3,
+              "contenu": "Données du tableau 4 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments_table0.xlsx",
+          "type": "xlsx",
+          "taille": 6774,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments_table0.xlsx",
+              "categorie": "SIN",
+              "lignes": 4,
+              "colonnes": 6,
+              "contenu": "Données du tableau 1 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_2_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments_table0.xlsx",
+              "categorie": "SIN",
+              "lignes": 5,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_3_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments_table0.xlsx",
+              "categorie": "DAB",
+              "lignes": 5,
+              "colonnes": 3,
+              "contenu": "Données du tableau 3 - Catégorie: DAB"
+            }
+          ]
+        },
+        {
+          "nom": "3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments.pdf",
+          "type": "pdf",
+          "taille": 254863,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments.pdf",
+              "categorie": "VAM",
+              "lignes": 5,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments.pdf",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 5,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_3063_4e47095a-f60f-4281-8b53-e863093469d8__20231004__Liste_batiments.pdf",
+              "categorie": "DAB",
+              "lignes": 4,
+              "colonnes": 5,
+              "contenu": "Données du tableau 3 - Catégorie: DAB"
+            }
+          ]
+        },
+        {
+          "nom": "2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+          "type": "pdf",
+          "taille": 235524,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+              "categorie": "DAB",
+              "lignes": 8,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_2_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+              "categorie": "Autre",
+              "lignes": 5,
+              "colonnes": 4,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+              "categorie": "Autre",
+              "lignes": 8,
+              "colonnes": 3,
+              "contenu": "Données du tableau 3 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_4_2147_89669b2b-10f8-463d-9b90-5315c2f282c4__20230925__Liste_batiments.pdf",
+              "categorie": "VAM",
+              "lignes": 7,
+              "colonnes": 4,
+              "contenu": "Données du tableau 4 - Catégorie: VAM"
+            }
+          ]
+        },
+        {
+          "nom": "BERGHEIM Annexe - INVENTAIRE 2023_table0 7.xlsx",
+          "type": "xlsx",
+          "taille": 14698,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_BERGHEIM Annexe - INVENTAIRE 2023_table0 7.xlsx",
+              "categorie": "DAB",
+              "lignes": 8,
+              "colonnes": 6,
+              "contenu": "Données du tableau 1 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_2_BERGHEIM Annexe - INVENTAIRE 2023_table0 7.xlsx",
+              "categorie": "SIN",
+              "lignes": 8,
+              "colonnes": 3,
+              "contenu": "Données du tableau 2 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_3_BERGHEIM Annexe - INVENTAIRE 2023_table0 7.xlsx",
+              "categorie": "DAB",
+              "lignes": 4,
+              "colonnes": 6,
+              "contenu": "Données du tableau 3 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_4_BERGHEIM Annexe - INVENTAIRE 2023_table0 7.xlsx",
+              "categorie": "SIN",
+              "lignes": 3,
+              "colonnes": 3,
+              "contenu": "Données du tableau 4 - Catégorie: SIN"
+            }
+          ]
+        },
+        {
+          "nom": "Notice dutilisation MCR2 24 30 35 MI.pdf",
+          "type": "pdf",
+          "taille": 1224992,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_Notice dutilisation MCR2 24 30 35 MI.pdf",
+              "categorie": "VAM",
+              "lignes": 5,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_Notice dutilisation MCR2 24 30 35 MI.pdf",
+              "categorie": "SIN",
+              "lignes": 3,
+              "colonnes": 5,
+              "contenu": "Données du tableau 2 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_3_Notice dutilisation MCR2 24 30 35 MI.pdf",
+              "categorie": "SIN",
+              "lignes": 7,
+              "colonnes": 6,
+              "contenu": "Données du tableau 3 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_4_Notice dutilisation MCR2 24 30 35 MI.pdf",
+              "categorie": "Autre",
+              "lignes": 8,
+              "colonnes": 4,
+              "contenu": "Données du tableau 4 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_5_Notice dutilisation MCR2 24 30 35 MI.pdf",
+              "categorie": "SIN",
+              "lignes": 5,
+              "colonnes": 3,
+              "contenu": "Données du tableau 5 - Catégorie: SIN"
+            }
+          ]
+        },
+        {
+          "nom": "NOT-128066-08.pdf",
+          "type": "pdf",
+          "taille": 929432,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_NOT-128066-08.pdf",
+              "categorie": "SIN",
+              "lignes": 3,
+              "colonnes": 5,
+              "contenu": "Données du tableau 1 - Catégorie: SIN"
+            },
+            {
+              "nom": "Tableau_2_NOT-128066-08.pdf",
+              "categorie": "Autre",
+              "lignes": 5,
+              "colonnes": 6,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_NOT-128066-08.pdf",
+              "categorie": "Autre",
+              "lignes": 4,
+              "colonnes": 6,
+              "contenu": "Données du tableau 3 - Catégorie: Autre"
+            }
+          ]
+        },
+        {
+          "nom": "BON_2568644 1.pdf",
+          "type": "pdf",
+          "taille": 747864,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_BON_2568644 1.pdf",
+              "categorie": "VAM",
+              "lignes": 4,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_BON_2568644 1.pdf",
+              "categorie": "Autre",
+              "lignes": 6,
+              "colonnes": 6,
+              "contenu": "Données du tableau 2 - Catégorie: Autre"
+            },
+            {
+              "nom": "Tableau_3_BON_2568644 1.pdf",
+              "categorie": "SIN",
+              "lignes": 6,
+              "colonnes": 5,
+              "contenu": "Données du tableau 3 - Catégorie: SIN"
+            }
+          ]
+        },
+        {
+          "nom": "BON_2568643.pdf",
+          "type": "pdf",
+          "taille": 748183,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_BON_2568643.pdf",
+              "categorie": "VAM",
+              "lignes": 5,
+              "colonnes": 4,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_BON_2568643.pdf",
+              "categorie": "DAB",
+              "lignes": 7,
+              "colonnes": 3,
+              "contenu": "Données du tableau 2 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_3_BON_2568643.pdf",
+              "categorie": "DAB",
+              "lignes": 3,
+              "colonnes": 6,
+              "contenu": "Données du tableau 3 - Catégorie: DAB"
+            }
+          ]
+        },
+        {
+          "nom": "BON_2568644.pdf",
+          "type": "pdf",
+          "taille": 747864,
+          "tableaux": [
+            {
+              "nom": "Tableau_1_BON_2568644.pdf",
+              "categorie": "VAM",
+              "lignes": 6,
+              "colonnes": 3,
+              "contenu": "Données du tableau 1 - Catégorie: VAM"
+            },
+            {
+              "nom": "Tableau_2_BON_2568644.pdf",
+              "categorie": "DAB",
+              "lignes": 3,
+              "colonnes": 5,
+              "contenu": "Données du tableau 2 - Catégorie: DAB"
+            },
+            {
+              "nom": "Tableau_3_BON_2568644.pdf",
+              "categorie": "VAM",
+              "lignes": 6,
+              "colonnes": 4,
+              "contenu": "Données du tableau 3 - Catégorie: VAM"
+            }
+          ]
+        }
+      ],
+      "nombre_documents": 11,
+      "questions": [
+        {
+          "question": "Quelle est la durée du contrat proposé ?",
+          "reponse": "36 mois avec possibilité de renouvellement"
+        },
+        {
+          "question": "Quel est le budget estimé pour ce projet ?",
+          "reponse": "Entre 500K€ et 1M€"
+        },
+        {
+          "question": "Quels sont les délais de réalisation ?",
+          "reponse": "6 mois après notification"
+        },
+        {
+          "question": "Quelles sont les modalités de paiement ?",
+          "reponse": "Paiement mensuel sur présentation de facture"
+        },
+        {
+          "question": "Quelles sont les pénalités de retard ?",
+          "reponse": "0,1% du montant par jour de retard"
+        },
+        {
+          "question": "Quelle est la date limite de soumission ?",
+          "reponse": "30 jours à compter de la publication"
+        },
+        {
+          "question": "Quels sont les critères de sélection ?",
+          "reponse": "Prix (40%), qualité technique (40%), délais (20%)"
+        },
+        {
+          "question": "Y a-t-il des conditions de sous-traitance ?",
+          "reponse": "Sous-traitance autorisée jusqu'à 30%"
+        },
+        {
+          "question": "Quelles sont les garanties demandées ?",
+          "reponse": "Garantie bancaire de 5% du montant"
+        },
+        {
+          "question": "Quel est le mode de consultation ?",
+          "reponse": "Appel d'offres ouvert"
+        },
+        {
+          "question": "Y a-t-il une visite de site obligatoire ?",
+          "reponse": "Oui, visite prévue le 15 du mois"
+        },
+        {
+          "question": "Quelles sont les assurances requises ?",
+          "reponse": "RC Pro et décennale obligatoires"
+        },
+        {
+          "question": "Quel est le délai de validité des offres ?",
+          "reponse": "120 jours à compter de la date limite"
+        },
+        {
+          "question": "Y a-t-il des variantes autorisées ?",
+          "reponse": "Oui, variantes techniques acceptées"
+        },
+        {
+          "question": "Quelles sont les modalités de livraison ?",
+          "reponse": "Livraison échelonnée selon planning"
+        },
+        {
+          "question": "Y a-t-il une période de garantie ?",
+          "reponse": "Garantie de 24 mois minimum"
+        },
+        {
+          "question": "Quels sont les documents obligatoires ?",
+          "reponse": "DC1, DC2, KBIS, attestations fiscales"
+        },
+        {
+          "question": "Y a-t-il des critères environnementaux ?",
+          "reponse": "Certification ISO 14001 souhaitée"
+        },
+        {
+          "question": "Quelle est la forme juridique requise ?",
+          "reponse": "Toute forme juridique acceptée"
+        },
+        {
+          "question": "Y a-t-il une clause de réexamen ?",
+          "reponse": "Révision annuelle des prix possible"
+        }
+      ]
+    }
+  ]
+}
